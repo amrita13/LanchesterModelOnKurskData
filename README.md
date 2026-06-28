@@ -1,7 +1,7 @@
 # <p align="center">Modeling Competitive Dynamics with Heterogeneous Lanchester Equations: Insights from Kursk Battle</p>
 
 <p align="center">
-  <a href="https://ssrn.com/abstract=6505946"><img src="https://img.shields.io/badge/Paper-SSRN%202026-blue" alt="Paper"></a>
+  <a href="https://arxiv.org/abs/1903.06666v2"><img src="https://img.shields.io/badge/Paper-ArXiv%20219-blue" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/SagarLekhak/pfm1-landmine-uav-vnir-hsi-IGARSS-2026"><img src="https://img.shields.io/badge/Dataset-UAV%20Hyperspectral-green" alt="Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
