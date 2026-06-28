@@ -1,4 +1,4 @@
-# <p align="center">Probabilistic Encounter Modeling for PFM‑1 Landmine Detection: A Comparative Benchmark of Hypergeometric Risk Models, SAM/ACE Detectors, and Kriging‑Enhanced Soft Classification</p>
+# <p align="center">Modeling Competitive Dynamics with Heterogeneous Lanchester Equations: Insights from Kursk Battle</p>
 
 <p align="center">
   <a href="https://ssrn.com/abstract=6505946"><img src="https://img.shields.io/badge/Paper-SSRN%202026-blue" alt="Paper"></a>
