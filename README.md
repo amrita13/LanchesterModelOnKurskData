@@ -28,16 +28,15 @@ For more details regarding data acquisition and preprocessing, go to the origina
 ### Setup
 
 ```bash
+import os
+
 # Clone the repository
-git clone https://github.com/summer2025july/Pfm1-kriging-hsi.git
-cd Pfm1-kriging-hsi
+!git clone https://github.com/amrita13/LanchesterModelOnKurskData.git
 
-# Create a virtual environment
-python -m venv .venv
-source .venv/bin/activate
+# Change directory to the cloned repository
+os.chdir('LanchesterModelOnKurskData')
 
-# Install dependencies
-pip install -r requirements.txt
+# The requirements.txt file is not present in the repository, so this step is removed.
 ```
 
 ## Usage
